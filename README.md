@@ -1,1 +1,0 @@
-# jjit-job-ranking
